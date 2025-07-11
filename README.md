@@ -31,7 +31,7 @@
 - LocalStorage（收藏、暫存）
 
 ## 畫面截圖
-（建議補上專案畫面）
+
 
 ## 作者
 - Ericthegoat

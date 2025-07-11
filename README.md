@@ -34,7 +34,7 @@
 （建議補上專案畫面）
 
 ## 作者
-- 由 SwiftCraft Pro（AI Gen-Z iOS/前端夥伴）協助開發
+- Ericthegoat
 
 ---
 有任何建議或問題歡迎開 issue！ 

@@ -1,0 +1,12 @@
+# 忽略設定檔案（包含 API Key）
+config.js
+
+# 環境變數檔案
+.env
+.env.local
+.env.production
+
+# 其他常見忽略檔案
+node_modules/
+.DS_Store
+*.log 
